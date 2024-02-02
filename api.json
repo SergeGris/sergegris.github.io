@@ -1,1 +1,17 @@
-{"api.version":"2","server.ip":"raw.githubusercontent.com","server.path.prefix":"/SergeGris/sergegris.github.io/main","support.goals":"Поддержать развитие проекта: аренду сервера, сопутствующие траты на разработку и т.д.", "support.variants":[["Тинькофф", "https://www.tinkoff.ru/cf/15EfyyW96sh"],["Сбер","https://www.sberbank.com/ru/person/dl/jc?linkname=9srLkdsPeHFbygszd"]]}
+{
+        "api.version": "2",
+        "server.ip": "raw.githubusercontent.com",
+        "server.path.prefix": "/SergeGris/sergegris.github.io/main",
+        "channel.link": "https://t.me/UniScheduleService",
+        "support.goals": "Поддержать развитие проекта: аренду сервера, сопутствующие траты на разработку и т.д.",
+        "support.variants": [
+                [
+                        "Тинькофф",
+                        "https://www.tinkoff.ru/cf/15EfyyW96sh"
+                ],
+                [
+                        "Сбер",
+                        "https://www.sberbank.com/ru/person/dl/jc?linkname=9srLkdsPeHFbygszd"
+                ]
+        ]
+}
