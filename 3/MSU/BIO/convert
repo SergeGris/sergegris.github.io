@@ -1,0 +1,1 @@
+jq < $1 -s -S '{schedule: [ .[] | .schedule[] | [ .[] | {begin: @text "\(.startsAt.h):\(.startsAt.m)", end: @text "\(.endsAt.h):\(.startsAt.m)", name: .class, teachersAndRooms: [ [ if .teacher == "" or .teacher == "-" then null else .teacher end, .classroom ] ], building: .building, type: .type }]]}'
